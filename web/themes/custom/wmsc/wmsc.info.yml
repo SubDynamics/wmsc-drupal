@@ -1,0 +1,27 @@
+name: wmsc
+type: theme
+description: "Theme for Westside Music Social Club website."
+'base theme': stable9
+version: 0.1.0
+libraries:
+  - wmsc/base
+  - wmsc/messages
+  - core/normalize
+libraries-extend:
+  user/drupal.user:
+    - wmsc/user
+  core/drupal.dropbutton:
+    - wmsc/dropbutton
+  core/drupal.dialog:
+    - wmsc/dialog
+  file/drupal.file:
+    - wmsc/file
+  core/drupal.item-list:
+    - wmsc/item-list
+  core/drupal.progress:
+    - wmsc/progress
+  core/drupal.tablesort:
+    - wmsc/drupal.tablesort
+description: ''
+core_version_requirement: ^11
+generator: 'starterkit_theme:11.3.9'
