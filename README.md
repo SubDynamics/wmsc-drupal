@@ -17,3 +17,11 @@ Launch project in Edge browser: `ddev launch`
 Start with BrowserSync: `ddev browsersync`
 
 - Add `:3000` to URL for hot syncing in browser.
+
+## Get Started
+
+There are a few ways to get started with Drupal:
+
+1. [User Guide:](https://www.drupal.org/docs/user_guide/en/index.html) Includes installing, administering, site building, and maintaining the content of a Drupal website.
+2. [Create Content:](https://wmsc-drupal.ddev.site/node/add) Want to get right to work? Start adding content. **Note:** the information on this page will go away once you add content to your site. Read on and bookmark resources of interest.
+3. [Extend Drupal:](https://www.drupal.org/docs/extending-drupal) Drupal’s core software can be extended and customized in remarkable ways. Install additional functionality and change the look of your site using addons contributed by our community.
